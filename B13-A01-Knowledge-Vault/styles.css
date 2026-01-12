@@ -1,0 +1,77 @@
+.maria
+    
+{
+    background-image: url(assets/hero-bg.png);width: 100%;height: 500px;display: flex;align-items: center;text-align: center;justify-content: center;color:white;flex-direction: column;opacity: 1; fill: rgba(0, 25, 49, 204);}
+    #mim{
+        display: flex;margin-top: 20px;gap: 16px;
+        padding: 15px 20px;text-decoration: none;border-radius: 8px;font-weight: 600;
+        background-color: green;color: white;flex-direction: row;
+        justify-content:flex-start;align-items: center;
+    }
+    #rouda{
+        
+        display: flex;margin-top: 20px;gap: 16px;
+        padding: 15px 20px;text-decoration: none;border-radius: 8px;font-weight: 600;border: 2px solid white;color: white;background: transparent;
+        flex-direction: row;align-items: center;justify-content: flex-start;
+    }
+    .turabi{
+        display: inline-block;color: rgb(24, 149, 24);background-color: whitesmoke;font-size: 15px;font-weight: 500;border-radius: 999px;margin-bottom: 16px;padding: 5px 12px;letter-spacing: 0%;font-size: 16px;
+
+
+    }
+    #pushpita{
+        font-size: 16px;font-weight: 400;color: whitesmoke;line-height: 1.5;margin-top: 10px;max-width: 600px;
+
+    }
+    .akib{
+text-align: center;height: 200px;
+    }
+.navm{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    transition: calc(.5s);
+}
+.navm li{
+margin-right: 10px;
+
+
+
+
+}
+.tahmina{
+    display: inline-flex;gap: 10px;margin: 20px;
+}
+.babu{
+gap: 2px;
+align-items: center;
+
+}
+.ashik{
+    gap: 4px;
+
+}
+
+
+
+
+
+
+.jk
+{
+position: absolute;
+  right: 30px;
+  top: 50%;
+  transform: translateY(-50%);
+display: flex;
+justify-content: center;align-items: center;
+}
+
+  
+
+
+
+    
+
+
+    
